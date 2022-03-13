@@ -1,8 +1,6 @@
 
 L
 src/easy/CyclicRotation.java,9/5/95695a2c18c97a30cb7c5b62ca93493871804d7f
-F
-src/easy/FrogJump.java,e/d/ed8a83e51e868848d8a2edeba53839dd2b5459cc
 J
 src/easy/FrogRiverOne.java,7/6/76eaeb400437afe0d147d7e3687391a2fa4aab41
 L
@@ -11,8 +9,6 @@ D
 src/easy/Orphan.java,f/1/f14d71e784c254a0f4e5a43e58c00ed8c141dab7
 G
 src/easy/PermCheck.java,0/5/0577d207ad705ac4d9971280a415ecfd3a70046c
-K
-src/medium/MaxCounters.java,1/0/10e8ddef1a4c86d8797b2928509a8a329d0c6989
 N
 src/medium/MissingInteger.java,3/5/351c1138678127337f802b2d123f3db6c565bcc3
 I
@@ -23,8 +19,6 @@ G
 src/easy/BinaryGap.java,f/1/f15d64ef4104e7406f124eace507d3e2b79b88ce
 M
 src/easy/TapeEquilibrium.java,e/c/ec25035d23eca809a07d1ef64165756b4dafe380
-B
-src/test/Test.java,9/7/97149f4a5db5d13120306f482f28d324a383427b
 N
 src/medium/MinAvgTwoSlice.java,e/7/e78ba039010285a0b29c8116d539d6fa4169224e
 Q
@@ -43,3 +37,9 @@ G
 src/task/GiveShips.java,6/0/60063d7d45ddaf62d73a7a5ae7082b3faf9875bd
 H
 src/task/ClipString.java,f/e/fe044910d4c12a452bd2ec2b778e98851a69db33
+F
+src/easy/Brackets.java,c/9/c9d397b3d7181f4e23af4ba72678992f9f4ae3cf
+B
+src/easy/Fish.java,3/b/3b73fc05f8f4dbab67dbe23a712c992d6016698b
+E
+src/easy/Nesting.java,b/a/ba855c8471f694a3af9db21d7a1ce40c78dc9be3
