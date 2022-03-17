@@ -25,8 +25,6 @@ Q
 !src/medium/GenomicRangeQuery.java,d/b/db74150565a734f6ec5547e4e51a04fcd5fa2204
 F
 src/easy/Distinct.java,9/2/928c92a70244937b12ebda6521a0617fec6349e2
-O
-src/easy/MaxProductOfThree.java,c/3/c3f1616b5646aab2bad75e7a215b46b12a4dd443
 F
 src/easy/Triangle.java,1/8/183eec360270cafaaca708943e735d6780296162
 Y
