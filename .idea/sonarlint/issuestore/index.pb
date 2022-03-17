@@ -43,3 +43,9 @@ B
 src/easy/Fish.java,3/b/3b73fc05f8f4dbab67dbe23a712c992d6016698b
 E
 src/easy/Nesting.java,b/a/ba855c8471f694a3af9db21d7a1ce40c78dc9be3
+F
+src/easy/FrogJump.java,e/d/ed8a83e51e868848d8a2edeba53839dd2b5459cc
+K
+src/medium/MaxCounters.java,1/0/10e8ddef1a4c86d8797b2928509a8a329d0c6989
+B
+src/test/Test.java,9/7/97149f4a5db5d13120306f482f28d324a383427b

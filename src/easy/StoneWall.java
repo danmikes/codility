@@ -5,7 +5,7 @@ import test.Test;
 import java.util.Stack;
 
 /**
- * cover 'Manhattan' skyline using minimum number of rectangles
+ * cover city skyline using minimum number of rectangles
  */
 public class StoneWall {
 
